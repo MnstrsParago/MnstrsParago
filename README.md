@@ -7,6 +7,7 @@
 - 💬 Telegram: [@ser_bauyr](https://t.me/ser_bauyr)
 - 🧠 GitHub: [MnstrsParago](https://github.com/MnstrsParago)
 - 🏆 Credly: [Profile](https://www.credly.com/users/abdanur-ayazbek/edit)
+- 📸 Instagram: [@bdnr05](https://www.instagram.com/bdnr05/)
 
 ---
 
@@ -31,10 +32,10 @@
 ## 🛠 Skills
 
 **Programming Languages:**
-- C, C++, C#, Java, Python, Golang, Bash, PHP, Assembly, SQL, Scratch (Basic HTML, Pseudocode)
+- Python, SQL, Bash, C, C++, C#, Java, Golang, PHP, Assembly, Scratch (HTML, Pseudocode)
 
 **Tools & Tech:**
-- VS Code, IntelliJ IDEA, PostgreSQL, Postman, GitHub Desktop
+- PostgreSQL, MySQL, VS Code, IntelliJ IDEA, Postman, GitHub Desktop
 - Google Sheets, Microsoft Excel, Looker Studio, Power Query
 
 **Soft Skills:**
