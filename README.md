@@ -102,3 +102,4 @@ Currently no formal work/internship experience.
 - Kazakh – C2
 - Russian – C2
 - English – B2 (IELTS)
+- Chinese – A1
