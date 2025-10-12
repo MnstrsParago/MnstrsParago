@@ -41,7 +41,7 @@
 - Additional VirtualBox, SysInternals, Nmap
 
 **Core Technical Skills:**
-Data Analysis, Dashboard Design, Error Propagation, Experimental Data Visualization, OOP Design, File I/O, Debugging, Version Control (Git)
+- Data Analysis, Dashboard Design, Error Propagation, Experimental Data Visualization, OOP Design, File I/O, Debugging, Version Control (Git)
 
 **Soft Skills:**
 - Self-Learning, Adaptability, Analytical Thinking, Time Management, Team Collaboration, Problem-Solving, Creativity
