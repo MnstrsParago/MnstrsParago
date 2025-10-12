@@ -35,11 +35,16 @@
 - Python, SQL, Bash, C, C++, C#, Java, Golang, PHP, Assembly, Scratch (HTML, Pseudocode)
 
 **Tools & Tech:**
-- PostgreSQL, MySQL, VS Code, IntelliJ IDEA, Postman, GitHub Desktop
-- Google Sheets, Microsoft Excel, Looker Studio, Power Query
+- Databases: PostgreSQL, MySQL
+- Development: VS Code, IntelliJ IDEA, GitHub Desktop, Postman
+- Data & Analytics: Power BI, Tableau, Looker Studio, Power Query, Microsoft Excel, Google Sheets
+- Additional VirtualBox, SysInternals, Nmap
+
+**Core Technical Skills:**
+Data Analysis, Dashboard Design, Error Propagation, Experimental Data Visualization, OOP Design, File I/O, Debugging, Version Control (Git)
 
 **Soft Skills:**
-- Self-learning, Adaptability, Time Management, Teamwork, Creativity
+- Self-Learning, Adaptability, Analytical Thinking, Time Management, Team Collaboration, Problem-Solving, Creativity
 
 ---
 
