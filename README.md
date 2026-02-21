@@ -1,15 +1,26 @@
 # 👋 Abdanur Ayazbek
 
 ## 🔹 Personal Info
-- 📍 Astana, Kazakhstan
-- 📧 Email: ayazbekov.abdanur@gmail.com
-- 📱 Phone: +7 771 336 2613
-- 💬 Telegram: [@ser_bauyr](https://t.me/ser_bauyr)
-- 🧠 GitHub: [MnstrsParago](https://github.com/MnstrsParago)
-- 🏆 Credly: [Profile](https://www.credly.com/users/abdanur-ayazbek/edit)
-- 📸 Instagram: [@bdnr05](https://www.instagram.com/bdnr05/)
 
----
+### **Core Details**
+
+* 📍 Astana, Kazakhstan
+* 📧 Email: [ayazbekov.abdanur@gmail.com](mailto:ayazbekov.abdanur@gmail.com)
+* 📱 Phone: +7 771 336 2613
+* 💬 Telegram: [@ser_bauyr](https://t.me/ser_bauyr)
+* 🧠 GitHub: [MnstrsParago](https://github.com/MnstrsParago)
+* 💼 LinkedIn: [Profile](https://www.linkedin.com/in/abdanur-ayazbek-a81564317)
+* 💻 LeetCode: [Abdanur](https://leetcode.com/u/Abdanur/)
+
+### **Extended Presence**
+
+* 📸 Instagram: [@bdnr05](https://www.instagram.com/bdnr05/)
+* 🏆 Credly: [Profile](https://www.credly.com/users/abdanur-ayazbek.1342de60)
+* 🎓 Google Skills: [Profile](https://www.skills.google/public_profiles/febe32ed-6823-442c-83c4-1433acd27a47)
+
+Если хочешь — сделаем ещё более «corporate aesthetic» или наоборот стартап-вайб 😄
+
+
 
 ## 🎓 Education
 - **University:** Astana IT University
