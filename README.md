@@ -18,8 +18,6 @@
 * 🏆 Credly: [Profile](https://www.credly.com/users/abdanur-ayazbek.1342de60)
 * 🎓 Google Skills: [Profile](https://www.skills.google/public_profiles/febe32ed-6823-442c-83c4-1433acd27a47)
 
-Если хочешь — сделаем ещё более «corporate aesthetic» или наоборот стартап-вайб 😄
-
 
 
 ## 🎓 Education
