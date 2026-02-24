@@ -8,9 +8,13 @@
 * 📧 Email: [ayazbekov.abdanur@gmail.com](mailto:ayazbekov.abdanur@gmail.com)
 * 📱 Phone: +7 771 336 2613
 * 💬 Telegram: [@ser_bauyr](https://t.me/ser_bauyr)
-* 🧠 GitHub: [MnstrsParago](https://github.com/MnstrsParago)
 * 💼 LinkedIn: [Profile](https://www.linkedin.com/in/abdanur-ayazbek-a81564317)
+
+### **Technical Portfolio**
+
 * 💻 LeetCode: [Abdanur](https://leetcode.com/u/Abdanur/)
+* 📊 Tableau Public: [Abdanur Ayazbek](https://public.tableau.com/app/profile/abdanur.ayazbek/vizzes)
+* 🧠 GitHub: [MnstrsParago](https://github.com/MnstrsParago)
 
 ### **Extended Presence**
 
