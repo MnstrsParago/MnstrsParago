@@ -60,9 +60,9 @@ Dec 2025 — Present
 ---
 
 ## 🏆 Hackathons / Competitions
-Hackathon 5 (May 2025) — Tomorrow-school.ai: Go challenges (21/24)   
-[EDUTECH NIS HACKATHON](https://drive.google.com/file/d/1pQtdXHW6yac9tkMH6HbaRLy3zLRdaAqA/view?usp=sharing) (November 2023) — 3rd place     
-[ABU Game Jam 1.0](https://drive.google.com/file/d/12peEeUzz-PHpWjRt03xP7EH5O0Qtz6jt/view?usp=sharing) (December 2022) — 3rd place    
+Hackathon 5 (May 2025) — Tomorrow-school.ai School: Go challenges (21/24)   
+[EDUTECH NIS HACKATHON](https://drive.google.com/file/d/1pQtdXHW6yac9tkMH6HbaRLy3zLRdaAqA/view?usp=sharing) (November 2023) — NIS Semey: 3rd place     
+[ABU Game Jam 1.0](https://drive.google.com/file/d/12peEeUzz-PHpWjRt03xP7EH5O0Qtz6jt/view?usp=sharing) (December 2022) — ABU Semey: 3rd place    
 
 ---
 
@@ -73,7 +73,7 @@ Nazarbayev Intellectual School of Physics and Mathematics in Semey • CS / Phys
 ---
 
 ## 🌍 Languages
-Kazakh — C2 (native) • Russian — C2 • English — B2 (IELTS) • Chinese — A1 (Duolingo)
+Kazakh C2 (native) • Russian C2 • English B2 (IELTS) • Chinese A1 (Duolingo)
 
 ---
 
