@@ -1,123 +1,64 @@
 # 👋 Abdanur Ayazbek
 
-## 🔹 Personal Info
+Big Data / Analytics student (Astana, Kazakhstan).  
 
-### **Core Details**
+**Career goal:** **Head of Data** (path: Applied Data Science + ML Engineering mindset).
 
-* 📍 Astana, Kazakhstan
-* 📧 Email: [ayazbekov.abdanur@gmail.com](mailto:ayazbekov.abdanur@gmail.com)
-* 📱 Phone: +7 771 336 2613
-* 💬 Telegram: [@ser_bauyr](https://t.me/ser_bauyr)
-* 💼 LinkedIn: [Profile](https://www.linkedin.com/in/abdanur-ayazbek-a81564317)
+---
 
-### **Technical Portfolio**
+## 🔗 Links
 
-* 💻 LeetCode: [Abdanur](https://leetcode.com/u/Abdanur/)
-* 📊 Tableau Public: [Abdanur Ayazbek](https://public.tableau.com/app/profile/abdanur.ayazbek/vizzes)
-* 🧠 GitHub: [MnstrsParago](https://github.com/MnstrsParago)
-
-### **Extended Presence**
-
-* 📸 Instagram: [@bdnr05](https://www.instagram.com/bdnr05/)
-* 🏆 Credly: [Profile](https://www.credly.com/users/abdanur-ayazbek.1342de60)
-* 🎓 Google Skills: [Profile](https://www.skills.google/public_profiles/febe32ed-6823-442c-83c4-1433acd27a47)
-
-
-
-## 🎓 Education
-- **University:** Astana IT University
-- **Major:** Big Data Analysis (Faculty of IT)
-- **Years:** Sep 2024 — Jun 2027
-
-**Certificates:**
-- *Coursera:*
-  - [Think Again II: How to Reason Deductively](https://www.coursera.org/account/accomplishments/verify/CH005IUMGI7C)
-  - [Think Again III: How to Reason Inductively](https://www.coursera.org/account/accomplishments/verify/0T1MAZ5E3DXX)
-  - [Think Again IV: How to Avoid Fallacies](https://www.coursera.org/account/accomplishments/verify/94B063IOLPU9)
-- *Huawei:*
-  - [AI Basics: Overview of AI](https://kltstaticcontent.shixizhi.huawei.com/1365189427395223554/certificate/20250312/b1cd295f19184e03bd8f8d87fed48d82_ICT202503120143990e902c8b046c46e7a35140d2d744a152.png)
-  - [Search and AI](https://kltstaticcontent.shixizhi.huawei.com/1365189427395223554/certificate/20250317/8c30692ab1d14dc19ba1e8c7756e12ef_ICT2025031700498328db17dea1844090a9422689e7b7a389.png)
-- *Google:*
-  - [Prompt Design in Vertex AI](https://www.credly.com/badges/d8b5fd77-55fd-4bbc-a00e-64b2fb46f233/public_url)
+**Main profiles:** [GitHub](https://github.com/MnstrsParago) (projects & code) • [LinkedIn](https://www.linkedin.com/in/abdanur-ayazbek-a81564317) (work overview & roles) • [Tableau Public](https://public.tableau.com/app/profile/abdanur.ayazbek/vizzes) (dashboards)  
+**Contact:** [Telegram](https://t.me/ser_bauyr) (mostly here)  
+**Daily practice:** [Duolingo](https://www.duolingo.com/profile/ParagoAbdanur) (streak: 213) • [LeetCode](https://leetcode.com/u/Abdanur/) (active days: 25)  
+**Achievements:** [Google Drive](https://drive.google.com/drive/folders/1O8Vy_cKec-7O1K7tEXp7q9YKsGALxosQ) (all certificates & achievements) • [Google Skills](https://www.skills.google/public_profiles/febe32ed-6823-442c-83c4-1433acd27a47) (labs) • [Credly](https://www.credly.com/users/abdanur-ayazbek.1342de60) (badges) 
 
 ---
 
 ## 🛠 Skills
-
-**Programming Languages:**
-- Python, SQL, Bash, C, C++, C#, Java, Golang, PHP, Assembly, Scratch (HTML, Pseudocode)
-
-**Tools & Tech:**
-- Databases: PostgreSQL, MySQL
-- Development: VS Code, IntelliJ IDEA, GitHub Desktop, Postman
-- Data & Analytics: Power BI, Tableau, Looker Studio, Power Query, Microsoft Excel, Google Sheets
-- Additional VirtualBox, SysInternals, Nmap
-
-**Core Technical Skills:**
-- Data Analysis, Dashboard Design, Error Propagation, Experimental Data Visualization, OOP Design, File I/O, Debugging, Version Control (Git)
-
-**Soft Skills:**
-- Self-Learning, Adaptability, Analytical Thinking, Time Management, Team Collaboration, Problem-Solving, Creativity
-
----
-
-## 📂 Projects
-
-### 🔸 Product ETL processes
-- **What:** Data cleaning and transformation in Python, JSON to SQL-ready format
-- **Tech:** Python, SQLite
-- **Result:** Learned parsing and simple ETL flows
-- 🔗 [GitHub Repo](https://github.com/MnstrsParago/EDU.PRACTICE.Product_ETL)
-
-### 🔸 Farmer’s Market Managing System
-- **What:** Advanced SQL practice project with DB modeling
-- **Tech:** PostgreSQL, Vertabelo
-- **Result:** Improved SQL proficiency and DB visualization skills
-- 🔗 [GitHub Repo](https://github.com/MnstrsParago/DBMS.FINAL.FMMS/tree/main)
-
-### 🔸 Milestone 3 API Server
-- **What:** Full Java API with CRUD via JSON in Postman
-- **Tech:** Java, PostgreSQL, Postman, IntelliJ
-- **Result:** Gained backend and API skills
-- 🔗 [GitHub Repo](https://github.com/MnstrsParago/OOP.ENDTERM.Project_Defence)
-
-### 🔸 Database Website Connection (Prototype)
-- **What:** PHP site connected to MySQL via phpMyAdmin
-- **Tech:** PHP, MySQL
-- **Result:** Learned basic CRUD ops and form handling *(project not saved)*
+**Programming:** Python, SQL, Bash, Java, C/C++, C#, Go, PHP (basics: Assembly, Scratch)  
+**Python:** pandas, NumPy, SciPy, Matplotlib, Seaborn • openpyxl, python-pptx  
+**BI & Data:** Tableau, Power BI, Looker Studio, Excel, Google Sheets, Power Query  
+**Databases:** PostgreSQL, MySQL, SQLite  
+**Tools:** Jupyter, Anaconda, Git/GitHub, VS Code, Postman, IntelliJ, VirtualBox
 
 ---
 
 ## 🧑‍💻 Experience
-Currently no formal work/internship experience.
+**Junior Data Analyst (Dual Education Program)** — АО «Пассажирские перевозки» (Dec 2025 — Present)  
+Python ETL from multiple Excel sources → unified dataset & accurate KPIs; automated weekly reports/dashboards for leadership; built HTML templates/web interfaces; maintained documentation.
+
+---
+
+## 📌 Main Projects
+**ML / DS — Hypothesis Testing (ESP):** https://github.com/MnstrsParago/SDS3.HypothesisTesting.ESP (Notebook: `Abdanur_Ayazbek_Task3_Analysis.ipynb`)  
+Hypotheses (H₀/H₁), test selection, statistic + p-value (α=0.05), interpretation, conclusions/limitations.
+
+**Data Analyst — Tableau “Superstore Analysis”:** https://github.com/MnstrsParago/BI.Tableau.SuperstoreAnalysis  
+Interactive dashboard with parameter switch (Sales/Profit/Orders), KPI cards, map, trends, top categories, filters, PDF export.
+
+**Developer — FitTrack (Frontend):** https://github.com/MnstrsParago/WEB.Frontend.FitTrack • Demo: https://web-final-fit-track.vercel.app/  
+Multi-page static site: charts (Chart.js), weather widget (OpenWeatherMap API), client-side auth + localStorage.
 
 ---
 
 ## 🏆 Hackathons / Competitions
-
-### 🎮 ABU Game Jam 1.0
-- **What:** Designed & developed a game in Unity with a team in 1 day
-- **Result:** 3rd place, learned game dev basics
-- [Certificate](https://drive.google.com/file/d/12peEeUzz-PHpWjRt03xP7EH5O0Qtz6jt/view?usp=sharing)
-
-### 🌐 EDUTECH NIS HACKATHON – 2023
-- **What:** Helped build an internal school news platform
-- **Result:** 3rd place, designed site layout and structure
-- [Certificate](https://drive.google.com/file/d/1pQtdXHW6yac9tkMH6HbaRLy3zLRdaAqA/view?usp=sharing)
-
-### 🧠 Hackathon 5 – Tomorrow-school.ai
-- **What:** Solved coding challenges in Go (21/24 tasks)
+Hackathon 5 (May 2025) — Tomorrow-school.ai: Go challenges (21/24)
+EDUTECH NIS HACKATHON (November 2023) — 3rd place: https://drive.google.com/file/d/1pQtdXHW6yac9tkMH6HbaRLy3zLRdaAqA/view?usp=sharing  
+ABU Game Jam 1.0 (December 2022) — 3rd place : https://drive.google.com/file/d/12peEeUzz-PHpWjRt03xP7EH5O0Qtz6jt/view?usp=sharing  
 
 ---
 
-## 🎯 Goals
-- **In 1 year:** Become confident in roles as a Data Analyst & Data Scientist
-- **In 5 years:** Become a versatile developer with strong AI, ML, and DS expertise
+## 🎓 Education
+Astana IT University — Big Data Analysis (Faculty of IT), Sep 2024 — Jun 2027, GPA — 3.4 / 4.0  
+Nazarbayev Intellectual School of Physics and Mathematics in Semey — CS / Physics / Math, Sep 2018 — Jun 2024, GPA — 4.3 / 5.0
 
 ---
 
 ## 🌍 Languages
-- Kazakh – C2
-- Russian – C2
-- English – B2 (IELTS)
-- Chinese – A1
+Kazakh — C2 • Russian — C2 • English — B2 (IELTS) • Chinese — A1 (Duolingo)
+
+---
+
+## ➕ Additional Information
+Dombra • Football • Basketball • Volleyball • Sudoku • Minesweeper
