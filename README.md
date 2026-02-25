@@ -15,48 +15,65 @@ Big Data / Analytics student (Astana, Kazakhstan).
 
 ---
 
-## 🛠 Skills
+## 🛠 Technical Skills
 **Programming:** Python, SQL, Bash, Java, C/C++, C#, Go, PHP (basics: Assembly, Scratch)  
 **Python:** pandas, NumPy, SciPy, Matplotlib, Seaborn • openpyxl, python-pptx  
 **BI & Data:** Tableau, Power BI, Looker Studio, Excel, Google Sheets, Power Query  
 **Databases:** PostgreSQL, MySQL, SQLite  
-**Tools:** Jupyter, Anaconda, Git/GitHub, VS Code, Postman, IntelliJ, VirtualBox
+**Tools:** Jupyter, Anaconda, Git/GitHub, VS Code, IntelliJ, Postman, VirtualBox, Sysinternals
 
 ---
 
-## 🧑‍💻 Experience
-**Junior Data Analyst (Dual Education Program)** — АО «Пассажирские перевозки» (Dec 2025 — Present)  
-Python ETL from multiple Excel sources → unified dataset & accurate KPIs; automated weekly reports/dashboards for leadership; built HTML templates/web interfaces; maintained documentation.
+## 🧑‍💻 Professional Experience
+**Junior Data Analyst (Dual Education Program)** — JSC "Passenger Transportation"  
+Dec 2025 — Present  
+- Built an end-to-end **ETL pipeline in Python** to consolidate multiple Excel sources into a unified dataset and improve KPI calculation accuracy.
+- Automated **weekly analytical reporting** and created **interactive dashboards** for executive leadership, reducing manual work and improving data consistency.
+- Developed **web-based interfaces and HTML templates** to present insights in a user-friendly format; maintained clear technical documentation.
 
 ---
 
 ## 📌 Main Projects
-**ML / DS — Hypothesis Testing (ESP):** https://github.com/MnstrsParago/SDS3.HypothesisTesting.ESP (Notebook: `Abdanur_Ayazbek_Task3_Analysis.ipynb`)  
-Hypotheses (H₀/H₁), test selection, statistic + p-value (α=0.05), interpretation, conclusions/limitations.
 
-**Data Analyst — Tableau “Superstore Analysis”:** https://github.com/MnstrsParago/BI.Tableau.SuperstoreAnalysis  
-Interactive dashboard with parameter switch (Sales/Profit/Orders), KPI cards, map, trends, top categories, filters, PDF export.
+### ML / Data Science — Hypothesis Testing (ESP)
+- **Repo:** https://github.com/MnstrsParago/SDS3.HypothesisTesting.ESP
+- **Main artifact:** `Abdanur_Ayazbek_Task3_Analysis.ipynb`
+- **What I did:** cleaned data, performed EDA, formulated a research question and hypotheses (H₀/H₁), selected statistical tests, computed test statistic + p-value (α = 0.05), interpreted results, and documented conclusions + limitations.
+- **Tech:** Python, Jupyter Notebook, pandas, NumPy, SciPy, Matplotlib/Seaborn
+- **Skills shown:** statistical inference, hypothesis testing, analytical reasoning, clear conclusions from data
 
-**Developer — FitTrack (Frontend):** https://github.com/MnstrsParago/WEB.Frontend.FitTrack • Demo: https://web-final-fit-track.vercel.app/  
-Multi-page static site: charts (Chart.js), weather widget (OpenWeatherMap API), client-side auth + localStorage.
+### Data Analyst — Tableau “Superstore Analysis”
+- **Repo:** https://github.com/MnstrsParago/BI.Tableau.SuperstoreAnalysis
+- **What I did:** built an interactive Tableau dashboard to analyze sales performance, profit, orders, customers, and returns.
+- **Key features:** parameter switch (Sales/Profit/Orders), KPI cards, map by state, trends by quarter/year, top sub-categories, filters, PDF export
+- **Tech:** Tableau, `.twb` workbook
+- **Skills shown:** dashboard design, BI storytelling, interactive reporting (parameters/filters), business metrics analysis
+
+### Developer — FitTrack (Frontend Web App)
+- **Repo:** https://github.com/MnstrsParago/WEB.Frontend.FitTrack
+- **Live demo:** https://web-final-fit-track.vercel.app/
+- **What I did:** built a multi-page responsive frontend app for fitness goals and daily habits with charts and API integration.
+- **Key features:** progress charts (Chart.js), weather widget (OpenWeatherMap API), client-side auth pages + localStorage
+- **Tech:** HTML5, CSS3, JavaScript (ES6+), Bootstrap 5, jQuery, Chart.js, OpenWeatherMap API
+- **Skills shown:** frontend development, responsive UI, API integration, browser storage, deployment
 
 ---
 
 ## 🏆 Hackathons / Competitions
-Hackathon 5 (May 2025) — Tomorrow-school.ai: Go challenges (21/24)
-EDUTECH NIS HACKATHON (November 2023) — 3rd place: https://drive.google.com/file/d/1pQtdXHW6yac9tkMH6HbaRLy3zLRdaAqA/view?usp=sharing  
-ABU Game Jam 1.0 (December 2022) — 3rd place : https://drive.google.com/file/d/12peEeUzz-PHpWjRt03xP7EH5O0Qtz6jt/view?usp=sharing  
+Hackathon 5 (May 2025) — Tomorrow-school.ai: Go challenges (21/24)   
+[EDUTECH NIS HACKATHON](https://drive.google.com/file/d/1pQtdXHW6yac9tkMH6HbaRLy3zLRdaAqA/view?usp=sharing) (November 2023) — 3rd place     
+[ABU Game Jam 1.0](https://drive.google.com/file/d/12peEeUzz-PHpWjRt03xP7EH5O0Qtz6jt/view?usp=sharing) (December 2022) — 3rd place    
 
 ---
 
 ## 🎓 Education
-Astana IT University — Big Data Analysis (Faculty of IT), Sep 2024 — Jun 2027, GPA — 3.4 / 4.0  
-Nazarbayev Intellectual School of Physics and Mathematics in Semey — CS / Physics / Math, Sep 2018 — Jun 2024, GPA — 4.3 / 5.0
+Astana IT University • Big Data Analysis (Faculty of IT) • Sep 2024 - Jun 2027 • GPA: 3.4 / 4.0  
+Nazarbayev Intellectual School of Physics and Mathematics in Semey • CS / Physics / Math • Sep 2018 - Jun 2024 • GPA: 4.3 / 5.0
 
 ---
 
 ## 🌍 Languages
-Kazakh — C2 • Russian — C2 • English — B2 (IELTS) • Chinese — A1 (Duolingo)
+Kazakh — C2 (native) • Russian — C2 • English — B2 (IELTS) • Chinese — A1 (Duolingo)
 
 ---
 
