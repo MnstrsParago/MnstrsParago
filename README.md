@@ -10,13 +10,13 @@ Big Data / Analytics student (Astana, Kazakhstan).
 
 **Main profiles:** [GitHub](https://github.com/MnstrsParago) (projects & code) • [LinkedIn](https://www.linkedin.com/in/abdanur-ayazbek-a81564317) (work overview & roles) • [Tableau Public](https://public.tableau.com/app/profile/abdanur.ayazbek/vizzes) (dashboards)  
 **Contact:** [Telegram](https://t.me/ser_bauyr) (mostly here)  
-**Daily practice:** [Duolingo](https://www.duolingo.com/profile/ParagoAbdanur) (streak: 213) • [LeetCode](https://leetcode.com/u/Abdanur/) (active days: 25)  
+**Daily practice:** [Duolingo](https://www.duolingo.com/profile/ParagoAbdanur) (streak: 228) • [LeetCode](https://leetcode.com/u/Abdanur/) (active days: 36)  
 **Achievements:** [Google Drive](https://drive.google.com/drive/folders/1O8Vy_cKec-7O1K7tEXp7q9YKsGALxosQ) (all certificates & achievements) • [Google Skills](https://www.skills.google/public_profiles/febe32ed-6823-442c-83c4-1433acd27a47) (labs) • [Credly](https://www.credly.com/users/abdanur-ayazbek.1342de60) (badges) 
 
 ---
 
 ## 🛠 Technical Skills
-**Programming:** Python, SQL, Bash, Java, C/C++, C#, Go, PHP (basics: Assembly, Scratch)  
+**Programming:** Python, SQL, Bash, Go, Java, C/C++, C#, PHP (basics: Assembly, Scratch)  
 **Python:** pandas, NumPy, SciPy, Matplotlib, Seaborn • openpyxl, python-pptx  
 **BI & Data:** Tableau, Power BI, Looker Studio, Excel, Google Sheets, Power Query  
 **Databases:** PostgreSQL, MySQL, SQLite  
@@ -67,7 +67,7 @@ Hackathon 5 (May 2025) — Tomorrow-school.ai School: Go challenges (21/24)
 ---
 
 ## 🎓 Education
-Astana IT University • Big Data Analysis (Faculty of IT) • Sep 2024 - Jun 2027 • GPA: 3.4 / 4.0  
+Astana IT University • Big Data Analysis (Faculty of IT) • Sep 2024 - Jun 2027 • GPA: 3.2 / 4.0  
 Nazarbayev Intellectual School of Physics and Mathematics in Semey • CS / Physics / Math • Sep 2018 - Jun 2024 • GPA: 4.3 / 5.0
 
 ---
