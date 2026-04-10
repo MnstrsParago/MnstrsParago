@@ -10,7 +10,7 @@ Big Data / Analytics student (Astana, Kazakhstan).
 
 **Main profiles:** [GitHub](https://github.com/MnstrsParago) (projects & code) • [LinkedIn](https://www.linkedin.com/in/abdanur-ayazbek-a81564317) (work overview & roles) • [Tableau Public](https://public.tableau.com/app/profile/abdanur.ayazbek/vizzes) (dashboards)  
 **Contact:** [Telegram](https://t.me/ser_bauyr) (mostly here)  
-**Daily practice:** [Duolingo](https://www.duolingo.com/profile/ParagoAbdanur) (streak: 229) • [LeetCode](https://leetcode.com/u/Abdanur/) (active days: 37)  
+**Daily practice:** [Duolingo](https://www.duolingo.com/profile/ParagoAbdanur) (streak: 254) • [LeetCode](https://leetcode.com/u/Abdanur/) (active days: 57)  
 **Achievements:** [Google Drive](https://drive.google.com/drive/folders/1O8Vy_cKec-7O1K7tEXp7q9YKsGALxosQ) (all certificates & achievements) • [Google Skills](https://www.skills.google/public_profiles/febe32ed-6823-442c-83c4-1433acd27a47) (labs) • [Credly](https://www.credly.com/users/abdanur-ayazbek.1342de60) (badges) 
 
 ---
