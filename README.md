@@ -10,7 +10,7 @@ Big Data / Analytics student (Astana, Kazakhstan).
 
 **Main profiles:** [GitHub](https://github.com/MnstrsParago) (projects & code) • [LinkedIn](https://www.linkedin.com/in/abdanur-ayazbek-a81564317) (work overview & roles) • [Tableau Public](https://public.tableau.com/app/profile/abdanur.ayazbek/vizzes) (dashboards)  
 **Contact:** [Telegram](https://t.me/ser_bauyr) (mostly here)  
-**Daily practice:** [Duolingo](https://www.duolingo.com/profile/ParagoAbdanur) (streak: 254) • [LeetCode](https://leetcode.com/u/Abdanur/) (active days: 57)  
+**Daily practice:** [Duolingo](https://www.duolingo.com/profile/ParagoAbdanur) (streak: 390) • [LeetCode](https://leetcode.com/u/Abdanur/) (active days: 63)  
 **Achievements:** [Google Drive](https://drive.google.com/drive/folders/1O8Vy_cKec-7O1K7tEXp7q9YKsGALxosQ) (all certificates & achievements) • [Google Skills](https://www.skills.google/public_profiles/febe32ed-6823-442c-83c4-1433acd27a47) (labs) • [Credly](https://www.credly.com/users/abdanur-ayazbek.1342de60) (badges) 
 
 ---
@@ -26,7 +26,7 @@ Big Data / Analytics student (Astana, Kazakhstan).
 
 ## 🧑‍💻 Professional Experience
 **Junior Data Analyst (Dual Education Program)** — JSC "Passenger Transportation"  
-Dec 2025 — Present  
+Dec 2025 — Jul 2026  
 - Built an end-to-end **ETL pipeline in Python** to consolidate multiple Excel sources into a unified dataset and improve KPI calculation accuracy.
 - Automated **weekly analytical reporting** and created **interactive dashboards** for executive leadership, reducing manual work and improving data consistency.
 - Developed **web-based interfaces and HTML templates** to present insights in a user-friendly format; maintained clear technical documentation.
@@ -67,7 +67,7 @@ Hackathon 5 (May 2025) — Tomorrow-school.ai School: Go challenges (21/24)
 ---
 
 ## 🎓 Education
-Astana IT University • Big Data Analysis (Faculty of IT) • Sep 2024 - Jun 2027 • GPA: 3.2 / 4.0  
+Astana IT University • Big Data Analysis (Faculty of IT) • Sep 2024 - Jun 2027 • GPA: 3.3 / 4.0  
 Nazarbayev Intellectual School of Physics and Mathematics in Semey • CS / Physics / Math • Sep 2018 - Jun 2024 • GPA: 4.3 / 5.0
 
 ---
